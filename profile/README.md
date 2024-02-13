@@ -22,6 +22,9 @@ we're better than klockcraft
 #### Active
 - [klockskid u0.1](https://github.com/klockskid-official/klockskid)
 
+#### Jokes
+- [nurana](https://github.com/klockskid-official/nurana-eag)
+
 #### Old
 - [your mother](https://example.com/?comment=stupid)
 </details>
