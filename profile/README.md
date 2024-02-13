@@ -20,7 +20,7 @@ we're better than klockcraft
 <summary>Overview</summary>
 
 #### Active
-- [klockskid u0.1](https://github.com/klockskid-official/klockskid-u21)
+- [klockskid u0.1](https://github.com/klockskid-official/klockskid)
 
 #### Old
 - [your mother](https://example.com/?comment=stupid)
